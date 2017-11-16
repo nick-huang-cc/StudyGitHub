@@ -13,5 +13,11 @@ public class JdbcTestEJB implements JdbcTestEJBLocal {
      */
     public JdbcTestEJB() {
         
+    	
+    	
+    }
+    
+    public static void main(String[] agre){
+    	System.out.println("GitHub£º");
     }
 }
