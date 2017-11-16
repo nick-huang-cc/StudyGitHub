@@ -17,5 +17,7 @@ public class JdbcTestEJB implements JdbcTestEJBLocal {
     	
     }
     
-    public static void main(String[] agre){d
-hdis
+    public static void main(String[] agre){
+	 Syste.out.println("都什么玩也！");   
+    }
+}
