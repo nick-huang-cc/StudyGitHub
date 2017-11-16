@@ -18,6 +18,6 @@ public class JdbcTestEJB implements JdbcTestEJBLocal {
     }
     
     public static void main(String[] agre){
-    	System.out.println("GitHub£º");
+    	System.out.println("GitHub£ºThis is ");
     }
 }
